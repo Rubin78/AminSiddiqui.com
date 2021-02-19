@@ -23,13 +23,12 @@ class Createaccount extends React.Component {
 
 
     super(props);
-
+    
 
     this.state = {
       country: "uk",
     };
 
-    
     
   }
 
