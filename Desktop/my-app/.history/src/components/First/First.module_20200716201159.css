@@ -1,0 +1,14 @@
+
+.containerBody{
+
+    background-color:"red";
+   
+    background-position: 'center';
+    background-size: 'cover';
+    background-repeat: 'no-repeat';
+    height: 980px;
+
+border: 1px solid red;
+}
+
+

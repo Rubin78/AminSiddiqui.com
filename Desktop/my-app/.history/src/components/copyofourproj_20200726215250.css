@@ -1,0 +1,291 @@
+
+.containerBody2{
+
+    
+   
+    background-position: center;
+    background-size: cover;
+    background-repeat: 'no-repeat';
+    height: 100vh;
+    width: calc(100vw -12px);
+    overflow-x: hidden;
+    position: relative;
+background-color: black;
+
+}
+
+
+.container2{
+
+    height: 100vh;
+    width: calc(100vw -12px);
+
+    overflow-x: hidden;
+
+    background-position: center;
+    background-size: cover;
+    background-repeat: 'no-repeat';
+position: relative;
+justify-content: center;
+
+display: flex;
+}
+
+.container3{
+
+    height: 92vh;
+    width: calc(100vw -12px);
+
+    overflow-x: hidden;
+
+    background-position: center;
+    background-size: cover;
+    background-repeat: 'no-repeat';
+position: relative;
+
+}
+
+.container4{
+
+    height: 50vh;
+    width: calc(100vw -12px);
+
+    overflow-x: hidden;
+
+    background-position: center;
+    background-size: cover;
+    background-repeat: 'no-repeat';
+position: relative;
+background-color: black;
+
+}
+
+
+.container5{
+
+    height: 62vh;
+    width: calc(100vw -12px);
+
+    overflow-x: hidden;
+
+    background-position: center;
+    background-size: cover;
+    background-repeat: 'no-repeat';
+position: relative;
+background-color: #000000;
+
+}
+
+
+.container6{
+
+    height: 100vh;
+    width: calc(100vw -12px);
+
+    overflow-x: hidden;
+
+    background-position: center;
+    background-size: cover;
+    background-repeat: 'no-repeat';
+position: relative;
+background-color: #6e1f22;
+
+}
+.textheader{
+
+    
+  color: white;
+  font-size: 15px;
+font-family: "Gotham-Medium","Helvetica Neue","sans-serif";
+letter-spacing: .28em;
+}
+
+
+
+.textheader1{
+
+    
+    color: white;
+    font-size: 18px;
+  font-family: "Gotham-Medium","Helvetica Neue","sans-serif";
+  letter-spacing: .28em;
+  }
+  
+  
+
+
+.textcolor{
+font-size: 45px;
+margin-bottom: 20px;
+letter-spacing: -1px;
+font-family: "Gotham-Bold","Helvetica Neue",sans-serif;
+
+
+
+
+
+}
+
+
+.container2row{
+
+display: flex;
+flex: 1;
+
+justify-content: center;
+align-items: center;
+height: 100vh;
+
+
+}
+
+
+.container2column{
+
+    height: 90vh;
+    width: 100vw;
+    letter-spacing: .15em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.secondfontfamily{
+
+
+    font-family: "Gotham-Medium","Helvetica Neue","sans-serif";
+    letter-spacing: .10em;
+    
+}
+
+
+
+.Aboutme{
+
+
+    font-family: "Gotham-Medium","Helvetica Neue","sans-serif";
+    letter-spacing: .10em;
+    
+}
+
+
+.Aboutme1{
+
+
+    font-family: "Gotham-Medium","Helvetica Neue","sans-serif";
+    letter-spacing: .10em;
+    
+}
+
+
+.cardheight{
+    height: 250px;
+}
+
+.card{
+
+
+    color: white;
+    height: 250px;
+    margin: 10px;
+    
+    border-radius: 25px;
+    
+}
+
+
+.cardinside{
+
+
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+
+
+.expcard{
+
+
+border: 2px;
+
+
+
+
+
+}
+
+
+.expcardinside{
+
+
+  
+    width: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+  
+}
+
+.expcardinsideitem{
+
+background-color:#6e1f22 ;
+
+height: 460px;
+border-radius: 15px;
+
+}
+
+
+.cardproject{
+
+
+height: 500px;
+background-color: black;
+
+
+
+    
+}
+
+.expimg{
+
+
+
+    height: 120px;
+    background-color:#6e1f22;
+
+    background-position: center;
+    background-size: cover;
+  background-size: 220px 170px;
+    background-repeat: 'no-repeat';
+position: relative;
+
+border-color: silver;
+
+}
+
+
+
+.textofdowncardsnoop{
+
+    height: 40px;
+    /* background-color: green; */
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.exptext{
+
+
+    height: 300px;
+    background-color:#6e1f22;
+    
+}
