@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/AminSiddiqui.com/static/css/main.9d708822.chunk.css",
+    "main.js": "/AminSiddiqui.com/static/js/main.c73a7790.chunk.js",
+    "main.js.map": "/AminSiddiqui.com/static/js/main.c73a7790.chunk.js.map",
+    "runtime-main.js": "/AminSiddiqui.com/static/js/runtime-main.e083756b.js",
+    "runtime-main.js.map": "/AminSiddiqui.com/static/js/runtime-main.e083756b.js.map",
+    "static/css/2.500cb03f.chunk.css": "/AminSiddiqui.com/static/css/2.500cb03f.chunk.css",
+    "static/js/2.02976b85.chunk.js": "/AminSiddiqui.com/static/js/2.02976b85.chunk.js",
+    "static/js/2.02976b85.chunk.js.map": "/AminSiddiqui.com/static/js/2.02976b85.chunk.js.map",
+    "index.html": "/AminSiddiqui.com/index.html",
+    "precache-manifest.9eba5a288a913257fe3ebfc0ed4cccc7.js": "/AminSiddiqui.com/precache-manifest.9eba5a288a913257fe3ebfc0ed4cccc7.js",
+    "service-worker.js": "/AminSiddiqui.com/service-worker.js",
+    "static/css/2.500cb03f.chunk.css.map": "/AminSiddiqui.com/static/css/2.500cb03f.chunk.css.map",
+    "static/css/main.9d708822.chunk.css.map": "/AminSiddiqui.com/static/css/main.9d708822.chunk.css.map",
+    "static/js/2.02976b85.chunk.js.LICENSE.txt": "/AminSiddiqui.com/static/js/2.02976b85.chunk.js.LICENSE.txt",
+    "static/media/Modelling1.png": "/AminSiddiqui.com/static/media/Modelling1.1635b5d0.png",
+    "static/media/amin4.png": "/AminSiddiqui.com/static/media/amin4.6326b1b8.png",
+    "static/media/five.png": "/AminSiddiqui.com/static/media/five.6eb5ec38.png",
+    "static/media/four.png": "/AminSiddiqui.com/static/media/four.522e1210.png",
+    "static/media/nine.png": "/AminSiddiqui.com/static/media/nine.8354c47c.png",
+    "static/media/port3.jpg": "/AminSiddiqui.com/static/media/port3.04e39e99.jpg",
+    "static/media/seven.png": "/AminSiddiqui.com/static/media/seven.b8f14452.png",
+    "static/media/six.png": "/AminSiddiqui.com/static/media/six.71b134b4.png",
+    "static/media/ten.png": "/AminSiddiqui.com/static/media/ten.b0d7c5ab.png",
+    "static/media/three.png": "/AminSiddiqui.com/static/media/three.b313f9ca.png",
+    "static/media/tosee2.webp": "/AminSiddiqui.com/static/media/tosee2.e95d0563.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e083756b.js",
+    "static/css/2.500cb03f.chunk.css",
+    "static/js/2.02976b85.chunk.js",
+    "static/css/main.9d708822.chunk.css",
+    "static/js/main.c73a7790.chunk.js"
+  ]
+}
