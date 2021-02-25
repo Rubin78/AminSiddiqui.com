@@ -29,9 +29,10 @@ class Createaccount extends React.Component {
       country: "uk",
     };
 
-    
+
     
   }
+
 
 
   static navigationOptions = { header: null };
@@ -98,6 +99,7 @@ class Createaccount extends React.Component {
                 this.setState({
                   country: item.value,
                 })
+
               }
             />
           </ScrollView>
@@ -153,7 +155,7 @@ const Styles = StyleSheet.create({
   },
   form: {
     
-    flex: ,
+    flex:7 ,
     paddingTop: heightPercentageToDP(2.5),
     padding:10
     
